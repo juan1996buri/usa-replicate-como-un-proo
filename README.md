@@ -1,3 +1,1 @@
-# apicacion_ia
-
-A new Flutter project.
+en el archivo Env pone el token de replicate para que te funcione
